@@ -41,3 +41,4 @@ me.say_hi()
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+<a href="https://github.com/alegoru"><img src="https://github-readme-stats.vercel.app/api?username=alegoru&hide_border=true&show_icons=true" alt="alegoru's github stats"></a>
